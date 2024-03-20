@@ -21,3 +21,6 @@ How to handle static files and media files?
 Difference between Django's class-based views and function-based views.
 Django signals and their use cases.
 Explain the role of Django's settings.py
+
+
+New line added
