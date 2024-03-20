@@ -1,0 +1,23 @@
+Django Questions:
+=======================
+
+
+Django architecture 
+MVC vs MVT 
+Django file structure 
+Django cmnds to create project and app 
+Django commnds 
+Django admin interface use 
+Django serilisation 
+Django's URL routing mechanism.
+What are Django templates, and how will be used in Django projects?
+Explain Django's ORM 
+orm vs raw sql queries 
+Django's middleware , what are builitin middlewares 
+What is Django's CSRF protection, and why is it important?
+Describe Django's built-in authentication system and its features.
+Explain the process of Django's request-response cycle.
+How to handle static files and media files?
+Difference between Django's class-based views and function-based views.
+Django signals and their use cases.
+Explain the role of Django's settings.py
